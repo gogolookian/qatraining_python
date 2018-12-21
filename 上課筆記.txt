@@ -1,0 +1,36 @@
+pass   do nothing
+continue  這一次skip
+break  整個for停掉
+
+tuple
+
+str概念上其實是個list (array)
+
+for 用在有次數限制
+while 不一定有次數限制，但一定要給他一個break
+      若有用list (array)，要記得自己 +1 index
+
+
+H1:
+*
+**
+***
+****
+
+H2
+  *
+ ***
+*****
+
+H3 
+  *
+ ***
+*****
+ ***
+  *
+
+H4 
+身份證號碼產生程式
+
+H5
+驗證身分證號碼
